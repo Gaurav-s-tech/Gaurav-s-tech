@@ -64,12 +64,10 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 
 ## Labs & Projects
 
-### [Windows Server & Active Directory Lab]
-- Deployed Windows Server and Windows 10 client VMs using VirtualBox  
-- Installed and configured Active Directory Domain Services (AD DS)  
-- Joined client machines to the domain and managed users and groups via RSAT  
-- Practised common service desk tasks such as password resets and account unlocks  
-- Troubleshot login, permissions, and domain connectivity issues  
+### [Albion University Network Design Project]
+- Planning & Topology Design  
+- Configuration & Implementation
+- Testing & Verification
 
 ---
 
