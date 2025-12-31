@@ -64,7 +64,7 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 
 ## Labs & Projects
 
-### [Albion University Network Design Project]
+### Albion University Network Design Project(https://github.com/Gaurav-s-tech/project-1)
 - Planning & Topology Design  
 - Configuration & Implementation
 - Testing & Verification
