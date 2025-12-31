@@ -33,14 +33,49 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 
 ## Certifications
 
-- **Microsoft Azure Fundamentals (AZ-900)**   
-- **Microsoft 365 Fundamentals (MS-900)**
-- **Google IT Support**
-- **Introduction to Cybersecurity**  
-- **Microsoft Applied Skill: Administer Active Directory Domain Services**  
-- **IBM AI Engineering**
+| | |
+| ------------- | ------------- |
+| Microsoft Azure Fundamentals (AZ-900)  | Google IT Support  |
+| Microsoft 365 Fundamentals (MS-900)  | IBM AI Engineering  |
+|Microsoft Applied Skill: Administer Active Directory Domain Services | Introduction to Cybersecurity|
+|Ubuntu Linux Professional Certificate by Canonical | |
 
-- **Ubuntu Linux Professional Certificate by Canonical**
+<table>
+  <tr>
+    <td>
+      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="40" height="40" />
+    </td>
+    <td>
+      <a href="https://www.ibm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="ibm" height="60" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.ibm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="ibm" height="50" />
+      </a>
+  </tr>
+</table>
 
 ---
 
