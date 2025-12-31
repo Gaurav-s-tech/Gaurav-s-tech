@@ -64,6 +64,16 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
 
 ## Labs & Projects
 
+### [Active Directory HomeLab](https://github.com/Gaurav-s-tech/ActiveDirectoryHomeLab/blob/main/README.md)
+- Installing Active Directory on Windows Server
+- Creating and Setting up Group Policies
+- Applying and Testing Group Policies
+- Setting up Network Sharing
+- Implementing Service Accounts
+- Windows File Sharing: NTFS vs Shared Permissions
+- Effective Permissions and Inheritance
+- Access-Based Enumeration Explained + Hands-On Lab
+
 ### [Albion University Network Design Project](https://github.com/Gaurav-s-tech/project-1)
 - Planning & Topology Design  
 - Configuration & Implementation
