@@ -1,5 +1,5 @@
 # Hello, I'm Gaurav Singh 👋
-<a href="https://www.linkedin.com/in/gaurav-singh-tech/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gaurav-singh-tech/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://www.gauravsingh.org/"> <img src="https://img.shields.io/badge/-gauravsingh.org-D83B01?&style=for-the-badge&logo=microsoft&logoColor=white" /> </a>
 
 I’m a **Microcomputer and Networking graduate** with a strong interest in **IT Support and Service Desk roles**. I enjoy troubleshooting technical issues, supporting users, and keeping systems running reliably. I have hands-on experience through practical labs and real-world simulations that mirror enterprise IT environments.
 
@@ -93,6 +93,7 @@ I am seeking an **entry-level / graduate IT Support or Service Desk role** where
   <img src="https://img.shields.io/badge/-Microsoft_365-D83B01?&style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-ServiceNow-1EBE8C?&style=for-the-badge&logo=servicenow&logoColor=white" />
   <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-800080?&style=for-the-badge" />
 </div>
 
 ---
